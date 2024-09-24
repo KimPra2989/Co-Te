@@ -1,6 +1,6 @@
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #263747;
+  --foreground: #b2c0cc;
 }
 
 @media (prefers-color-scheme: dark) {
